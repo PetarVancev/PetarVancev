@@ -1,6 +1,3 @@
-<p align="center">  
-  <b>Hi 👋 I'm Petar Vanchev</b>  
-</p>
 # 💫 About Me:
 I'm a third-year computer science student at the University of Primorska, passionate about exploring the realms of coding, software engineering and machine learning
 
